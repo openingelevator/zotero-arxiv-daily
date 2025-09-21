@@ -137,6 +137,8 @@ Distributed under the AGPLv3 License. See `LICENSE` for detail.
 If you find this project helpful, welcome to sponsor me via WeChat or via [ko-fi](https://ko-fi.com/tidedra).
 ![wechat_qr](assets/wechat_sponsor.JPG)
 
+## Edit
+2025-09-21
 
 ## 🌟 Star History
 
